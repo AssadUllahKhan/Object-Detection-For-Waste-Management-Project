@@ -1,4 +1,4 @@
-# 🗑️ Object Detection for Waste Management Project
+<h1 align="center"> 🗑️ Object Detection for Waste Management Project</h1>
 
 ## 📘 Overview
 This repository contains the implementation of a **multi-class waste detection model** built using the **YOLOv8s architecture**. The project aims to automate the identification and classification of various types of waste to assist in **efficient waste management and recycling** systems. The model was trained on the **TACO (Trash Annotations in Context)** dataset, which includes 18 waste categories such as plastic bottles, cans, paper, and glass.
@@ -127,3 +127,23 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ---
 
 > “Automating waste detection through AI and vision systems can help pave the way for a cleaner, smarter, and more sustainable planet.”
+
+---
+
+<p align="center">
+  Made by <b>Assad Ullah Khan</b><br>
+  Research Assistant at DIP lab Islamia College Peshawar
+</p>
+
+<p align="center">
+  <!-- GitHub Badge -->
+  <a href="https://github.com/AssadUllahKhan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" height="30" />
+  </a>
+
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/assad-ullah-khan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" height="30" />
+  </a>
+</p>
+
